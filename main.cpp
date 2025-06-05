@@ -86,18 +86,18 @@
 // }
 
 // problem 7
-#include <iostream>
-using namespace std;
-int main() {
-    int a,b,c,d,sum1, sum2;
-    cout<<"Enter 4 numbers: ";
-    cin>>a>>b>>c>>d;
-
-    sum1=a+b;
-    sum2=c+d;
-
-    cout<< "Is first sum1 < sum2"<< (sum1<sum2)<<endl;
-    cout<< "Is first sum1 > sum2" <<(sum1>sum2)<<endl;
-    cout<< "Are the sums equal?" <<(sum1==sum2)<<endl;
-    return 0;
-}
+// #include <iostream>
+// using namespace std;
+// int main() {
+//     int a,b,c,d,sum1, sum2;
+//     cout<<"Enter 4 numbers: ";
+//     cin>>a>>b>>c>>d;
+//
+//     sum1=a+b;
+//     sum2=c+d;
+//
+//     cout<< "Is first sum1 < sum2"<< (sum1<sum2)<<endl;
+//     cout<< "Is first sum1 > sum2" <<(sum1>sum2)<<endl;
+//     cout<< "Are the sums equal?" <<(sum1==sum2)<<endl;
+//     return 0;
+// }
